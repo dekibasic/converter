@@ -8,7 +8,7 @@ while True:
 
     repeat = input("Do you want to convert again [y/n]?")
     if repeat == "y":
-        print(km)
+        print
     elif repeat == "n":
         print("Thank you for using my converter.")
         break
